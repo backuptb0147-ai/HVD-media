@@ -1,0 +1,1 @@
+﻿# HVD Media Asset Storage
